@@ -1,6 +1,8 @@
-# This Jekyll blog theme is forked from Adam's Blog
+# This Jekyll blog theme is forked from Adam Blog
 
 I love this design! Pretty Cool!
+
+[Click this to visit!](https://hyspoo.github.io)
 
 ***
 
